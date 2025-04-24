@@ -1,0 +1,10 @@
+[project]
+name = "PydanticAI-HowTo"
+version = "0.1.0"
+description = "HowTo use PydanticAI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-dotenv>=1.0.1",
+    "pydantic-ai>=0.0.52",
+]
